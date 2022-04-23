@@ -9,8 +9,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: whitesmoke;
-  /* background: linear-gradient(to right, #0f0c29, #302b63, #24243e); */
+  background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
  
 }
 
